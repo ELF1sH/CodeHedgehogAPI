@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TestApp",
+    "\\TestApp\\Controllers",
+    "\\TestApp\\Files",
+    "\\TestApp\\Models",
+    "\\TestApp\\Models\\DTO",
+    "\\TestApp\\Services"
+  ],
+  "SelectedNode": "\\TestApp\\Services\\ITaskService.cs",
+  "PreviewInSolutionExplorer": false
+}
